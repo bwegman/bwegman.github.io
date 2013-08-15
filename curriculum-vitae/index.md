@@ -20,3 +20,7 @@ title: Curriculum Vitae
 
 ##### Hermann Wesselink College - Amstelveen (1990 - 1996)
 * VWO
+
+> Quote
+
+
