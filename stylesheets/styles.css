@@ -138,6 +138,10 @@ header ul a {
   height:40px;
 }
 
+header p.view a {
+display: block;
+}
+
 strong {
   color:#222;
   font-weight:700;
@@ -188,8 +192,17 @@ footer {
     display: none;
   }
 
+  ul {
+    page-break-inside: avoid;
+  }
 
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
 
+  p {
+    page-break-before: avoid;
+  }
 }
 
 @media print, screen and (max-width: 960px) {

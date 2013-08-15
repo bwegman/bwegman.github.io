@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 ---
 
-### Curriculum Vitae
+## Curriculum Vitae
 
 |         |    |
 | ------------- |-------------|
@@ -13,9 +13,9 @@ title: Curriculum Vitae
 | **Phone**   | +31 651 154 155 | 
 | **Email**   | wegman@shader.nl | 
 
-#### Contract work
+### Contract work
 
-##### RDC inMotiv Nederland BV (2011 - 2013)
+#### RDC inMotiv Nederland BV (2011 - 2013)
 
 Implementing the [ROB Next](http://www.rob-net.nl) system. ROB Next is a transaction system for handling all repair, maintenance and tire activities surrounding leased vehicles (cars, trucks, trailers and motors). It has replaced a previous version of the system.
 
@@ -27,24 +27,53 @@ The co-existence was realised by creating a special translation and interface co
 
 The ROB Next system is used daily by 7000+ users and processes 2.8M+ (&euro; 500M+) requests anually.
 
-* C#, ASP.NET MVC4, [MassTransit](https://github.com/MassTransit/MassTransit), [SignalR](https://github.com/signalR/SignalR), SQL Server 2008 R2
-* Lead developer, lead architect, SCRUM master.
+* C#, ASP.NET MVC4, [MassTransit](https://github.com/MassTransit/MassTransit), [SignalR](https://github.com/signalR/SignalR), WCF, SQL Server
+* Lead developer, lead architect, SCRUM master
 
-##### Crossing Channels (2008 - 2010)
+#### Crossing Channels (2008 - 2010)
 
-##### Electrolux Home Group Sweden (2009)
+Worked on projects for [SGC](http://www.degeschillencommissie.nl/home), [Kuoni](http://www.kuoni.nl), [Rode Kruis](http://www.rodekruis.nl) and [VUMC](http://www.vumc.nl).
 
-##### Electrolux Home Products BV (2007 - 2008)
+* C#, ASP.NET WebForms, LLBLGen, SQL Server
+* Senior developer
 
-##### United Retail BV (2004 - 2007)
+##### Large bank/mortgage broker in the Netherlands
 
+Integration of an investment back-end with a new web-based mortgage system. Responsible for technical design and client communication.
 
+* C#, ASP.NET WebForms, WCF, SQL Server
+* Senior developer, integration architect
 
-#### Contributions
+#### Electrolux Home Products BV (2007 - 2008)
+
+Implementing the websites [mijnapparaten.nl](http://mijnapparaten.nl) and [mijnservice.nl](http://mijnservice.nl) supporting the after-sales of the AEG, Electrolux and Zanussi brands in The Netherlands. 
+
+The sites allow both consumers and retailers to have direct access to the planning systems of the Electrolux after-sales organization. This allows them to make appointments and get technical information on the appliances.
+
+* C#, ASP.NET WebForms, DotNetNuke, LLBLGen
+
+#### United Retail BV (2004 - 2007)
+
+The largest home appliance franchise retail organizations in The Netherlands.
+
+##### UniFact Backoffice
+
+Implementing the central invoice processing system. All invoices from product suppliers (both producers and wholesalers) for each of the 500+ retailers is processed with this system. Its key component is the invoice validation routine which uses information on all available products (price, discounts, taxes etc.) and checks if the invoice is correct.
+
+A large amount of the invoices is processed using EDIFact. The transfer from manual entry to EDI has allowed for a dramatic cost reduction.
+
+##### UniFact Frontoffice
+
+Implementing systems for internal and external communication. All information regarding products, prices and bonusses is communicated using this system to all franchisers.
+
+* C#, WinForms, SQL Server replication
+* Lead developer, lead architect, product owner
+
+### Contributions
 
 Contributor to [SignalR](https://github.com/signalR/SignalR) and [MassTransit](https://github.com/MassTransit/MassTransit).
 
-#### Knowledge
+### Knowledge
 
 |Area|Level|
 |----|-----|
@@ -53,22 +82,24 @@ Contributor to [SignalR](https://github.com/signalR/SignalR) and [MassTransit](h
 |SignalR|+++|
 |LLBLGen|+++|
 |JavaScript|+++|
+|CSS|+++|
+|Microsoft SQL Server|+++|
 |TFS|+++|
 |Git|+++|
 
-#### Education
+### Education
 
-##### Vrije Universiteit - Amsterdam (1996 - 2002)
+#### Vrije Universiteit - Amsterdam (1996 - 2002)
 * Distributed systems (MSc)
 
-##### Hermann Wesselink College - Amstelveen (1990 - 1996)
+#### Hermann Wesselink College - Amstelveen (1990 - 1996)
 * VWO
 
-#### Languages
+### Languages
 
 * **Nederlands** &mdash; fluent in speech and writing
 * **English** &mdash; fluent in speech and writing
 
-#### Company
+### Company
 
 Since 1996 owner of Shader BV, a small company in The Netherlands focused on increasing the business value of IT systems.
