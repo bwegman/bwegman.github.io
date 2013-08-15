@@ -183,6 +183,15 @@ footer {
   bottom:50px;
 }
 
+@media print {
+  header .view, footer { 
+    display: none;
+  }
+
+
+
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
