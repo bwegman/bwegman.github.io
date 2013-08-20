@@ -17,13 +17,13 @@ title: Curriculum Vitae
 
 #### RDC inMotiv Nederland BV (2011 - 2013)
 
-Implementing the [ROB Next](http://www.rob-net.nl) system. ROB Next is a transaction system for handling all repair, maintenance and tire activities surrounding leased vehicles (cars, trucks, trailers and motors). It has replaced a previous version of the system.
+Implemented the [ROB Next](http://www.rob-net.nl) system. ROB Next is a transaction system for handling all repair, maintenance and tire activities for leased vehicles (cars, trucks, trailers and motorcycles). It replaced a previous version of the system.
 
-Primary goal for the new system is to allow for more flexibility, scalibility and better interoperability. We realised this by implementing a publish/subscribe service bus architecture and separating all components of the system.
+The primary goal for the new system is to allow for more flexibility, scalability and improved interoperability. We realised this goal by implementing a publish/subscribe service bus architecture and separating all components of the system.
 
-During the two year development period we used an incremental delivery strategy to minimize operational risk. Four releases have been made into production with minimal downtime for the users. The biggest hurdle for this phased migration to work was to have both the old system and the new system co-exist. 
+During the two year development cycle we used an incremental delivery strategy to minimize operational risk. Four major production releases were made with minimal downtime for the users. The biggest hurdle for this phased migration to work was to have both the old system and the new system co-exist. 
 
-The co-existence was realised by creating a special translation and interface component that marshalled data from the old system into the new system (and vice-versa) using its messaging infrastructure. With neither system being aware that the other existed this allowed for continued development of the new system, minimal changes in the old system and getting the new system production-ready faster and with reduced risk.
+The co-existence was realised by creating a special translation and interface component that marshalled data from the old system into the new system and vice-versa using the messaging infrastructure. With neither system being aware that the other existed this allowed for continued development of the new system, minimal changes in the old system and getting the new system production-ready faster and with reduced risk.
 
 The ROB Next system is used daily by 7000+ users and processes 2.8M+ (&euro; 500M+) requests anually.
 
