@@ -15,9 +15,16 @@ title: Curriculum Vitae
 
 ### Contract work
 
+#### Vereniging ROB / RDC inMotiv Nederland BV (2013 - )
+
+Implementing phase 2 of the [ROB Net](http://www.rob-net.nl) project.
+
+* C#, ASP.NET MVC4, [MassTransit](https://github.com/MassTransit/MassTransit), [SignalR](https://github.com/signalR/SignalR), WCF, SQL Server
+* Lead developer, lead architect, SCRUM master
+
 #### RDC inMotiv Nederland BV (2011 - 2013)
 
-Implemented the [ROB Next](http://www.rob-net.nl) system. ROB Next is a transaction system for handling all repair, maintenance and tire activities for leased vehicles (cars, trucks, trailers and motorcycles). It replaced a previous version of the system.
+Implemented the new [ROB Net](http://www.rob-net.nl) system. ROB Net is a transaction system for handling all repair, maintenance and tire activities for leased vehicles (cars, trucks, trailers and motorcycles). It replaced a previous version of the system.
 
 The primary goal for the new system is to allow for more flexibility, scalability and improved interoperability. We realised this goal by implementing a publish/subscribe service bus architecture and separating all components of the system. We were able to quickly scale out the system, add multiple external connections to other system and have better insight insight into the performance of the system.
 
@@ -25,7 +32,7 @@ During the two year development cycle we used an incremental delivery strategy t
 
 The co-existence was realised by creating a special translation and interface component that marshalled data from the old system into the new system and vice-versa using the messaging infrastructure. With neither system being aware that the other existed this allowed for continued development of the new system, minimal changes in the old system and getting the new system production-ready faster and with reduced risk.
 
-The ROB Next system is used daily by 7000+ users and processes 2.8M+ (&euro; 500M+) requests anually.
+The ROB Net system is used daily by 7000+ users and processes 2.8M+ (&euro; 500M+) requests anually.
 
 * C#, ASP.NET MVC4, [MassTransit](https://github.com/MassTransit/MassTransit), [SignalR](https://github.com/signalR/SignalR), WCF, SQL Server
 * Lead developer, lead architect, SCRUM master
