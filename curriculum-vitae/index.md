@@ -22,6 +22,14 @@ Implementing phase 2 of the [ROB Net](http://www.rob-net.nl) project.
 * C#, ASP.NET MVC4, [MassTransit](https://github.com/MassTransit/MassTransit), [SignalR](https://github.com/signalR/SignalR), WCF, SQL Server
 * Lead developer, lead architect, SCRUM master
 
+#### virtuelevakman.nl (2014)
+
+Migrating virtuelevakman.nl and related services to Microsoft Azure Platform. Challenges:
+
+* Convert multiple databases to Azure SQL Services
+* Upgrade websites to work correctly with Azure Web Services
+* Implement Azure Blob Storage for storing image libraries
+
 #### RDC inMotiv Nederland BV (2011 - 2013)
 
 Implemented the new [ROB Net](http://www.rob-net.nl) system. ROB Net is a transaction system for handling all repair, maintenance and tire activities for leased vehicles (cars, trucks, trailers and motorcycles). It replaced a previous version of the system.
@@ -86,6 +94,7 @@ Contributor to [SignalR](https://github.com/signalR/SignalR) and [MassTransit](h
 |----|-----|
 |C# 5|+++|
 |ASP.NET MVC|+++|
+|Azure|++|
 |SignalR|+++|
 |LLBLGen|+++|
 |JavaScript|+++|
