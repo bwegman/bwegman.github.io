@@ -13,6 +13,14 @@ title: Curriculum Vitae
 | **Phone**   | +31 651 154 155 |
 | **Email**   | wegman@shader.nl |
 
+## Summary
+
+By combining new developments with proven technologies and applying those at  my clients, I have succeeded numerous times in offering efficient and valuable solutions that immediately benefit organizations.
+
+My broad knowledge not only of the technical, architectural side of IT but also of the processes within organizations has given me the opportunity to work from a high-level and find solutions that are new and truly beneficial.
+
+This defines what an IT architect should do: From a rich knowledge base apply new ideas and insights, which purpose should be to create a more efficient way of working and as a bonus reduce cost.
+
 ### Contract work
 
 #### Vereniging ROB / RDC inMotiv Nederland BV (2013 - )
@@ -34,13 +42,13 @@ Migrating virtuelevakman.nl and related services to Microsoft Azure Platform. Ch
 
 Implemented the new [ROB Net](http://www.rob-net.nl) system. ROB Net is a transaction system for handling all repair, maintenance and tire activities for leased vehicles (cars, trucks, trailers and motorcycles). It replaced a previous version of the system.
 
-The primary goal for the new system is to allow for more flexibility, scalability and improved interoperability. We realised this goal by implementing a publish/subscribe service bus architecture and separating all components of the system. We were able to quickly scale out the system, add multiple external connections to other system and have better insight insight into the performance of the system.
+The primary goal for the new system is to allow for more flexibility, scalability and improved interoperability. We realized this goal by implementing a publish/subscribe service bus architecture and separating all components of the system. We were able to quickly scale out the system, add multiple external connections to other system and have better insight insight into the performance of the system.
 
 During the two year development cycle we used an incremental delivery strategy to minimize operational risk. Four major production releases were made with minimal downtime for the users. The biggest hurdle for this phased migration to work was to have both the old system and the new system co-exist.
 
-The co-existence was realised by creating a special translation and interface component that marshalled data from the old system into the new system and vice-versa using the messaging infrastructure. With neither system being aware that the other existed this allowed for continued development of the new system, minimal changes in the old system and getting the new system production-ready faster and with reduced risk.
+The co-existence was realized by creating a special translation and interface component that marshaled data from the old system into the new system and vice-versa using the messaging infrastructure. With neither system being aware that the other existed this allowed for continued development of the new system, minimal changes in the old system and getting the new system production-ready faster and with reduced risk.
 
-The ROB Net system is used daily by 7000+ users and processes 2.8M+ (&euro; 500M+) requests anually.
+The ROB Net system is used daily by 7000+ users and processes 2.8M+ (&euro; 500M+) requests annually.
 
 * C#, ASP.NET MVC4, [MassTransit](https://github.com/MassTransit/MassTransit), [SignalR](https://github.com/signalR/SignalR), WCF, SQL Server
 * Lead developer, lead architect, SCRUM master
@@ -79,7 +87,7 @@ A large amount of the invoices is processed using EDIFact. The transfer from man
 
 ##### UniFact Frontoffice
 
-Implementing systems for internal and external communication. All information regarding products, prices and bonusses is communicated using this system to all franchisers.
+Implementing systems for internal and external communication. All information regarding products, prices and bonuses is communicated using this system to all franchisers.
 
 * C#, WinForms, SQL Server replication
 * Lead developer, lead architect, product owner
