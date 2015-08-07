@@ -42,7 +42,7 @@ Migrating virtuelevakman.nl and related services to Microsoft Azure Platform. Ch
 
 Implemented the new [ROB Net](http://www.rob-net.nl) system. ROB Net is a transaction system for handling all repair, maintenance and tire activities for leased vehicles (cars, trucks, trailers and motorcycles). It replaced a previous version of the system.
 
-The primary goal for the new system is to allow for more flexibility, scalability and improved interoperability. We realized this goal by implementing a publish/subscribe service bus architecture and separating all components of the system. We were able to quickly scale out the system, add multiple external connections to other system and have better insight insight into the performance of the system.
+The primary goal for the new system is to allow for more flexibility, scalability and improved interoperability. We realized this goal by implementing a publish/subscribe service bus architecture and separating all components of the system. We were able to quickly scale out the system, add multiple external connections to other system and have better insight into the performance of the system.
 
 During the two year development cycle we used an incremental delivery strategy to minimize operational risk. Four major production releases were made with minimal downtime for the users. The biggest hurdle for this phased migration to work was to have both the old system and the new system co-exist.
 
