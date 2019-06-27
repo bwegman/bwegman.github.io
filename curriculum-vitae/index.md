@@ -11,19 +11,29 @@ title: Curriculum Vitae
 | **Address** | Lambrecht van Dalelaan 33, 2015 ER Haarlem, The Netherlands |
 | **Born**    | 31 March 1978 |
 | **Phone**   | +31 651 154 155 |
-| **Email**   | wegman@shader.nl |
+| **Email**   | benjamin@stormcrow.nl |
 
 ## Summary
 
-By combining new developments with proven technologies and applying those at  my clients, I have succeeded numerous times in offering efficient and valuable solutions that immediately benefit organizations.
+By combining new developments with proven technologies and applying those at my clients, I have succeeded numerous times in offering efficient and valuable solutions that immediately benefit organizations.
 
 My broad knowledge not only of the technical, architectural side of IT but also of the processes within organizations has given me the opportunity to work from a high-level and find solutions that are new and truly beneficial.
 
-This defines what an IT architect should do: From a rich knowledge base apply new ideas and insights, which purpose should be to create a more efficient way of working and as a bonus reduce cost.
+This defines what an IT architect should do: From a rich knowledgebase apply new ideas and insights, which purpose should be to create a more efficient way of working and as a bonus reduce cost.
+
+### Current
+
+#### PitCrew BV
+
+Owner and managing partner [PitCrew](https://pitcrew.nl).
+
+* Managing all development related activities.
+* Development, maintenance and support voor [ROB Net](http://www.rob-net.nl).
+* Development of related applications like: ROB-BI, Grip and Prime.
 
 ### Contract work
 
-#### Vereniging ROB / RDC inMotiv Nederland BV (2013 - )
+#### Vereniging ROB / RDC inMotiv Nederland BV (2013 - 2017)
 
 Implementing phase 2 of the [ROB Net](http://www.rob-net.nl) project.
 
